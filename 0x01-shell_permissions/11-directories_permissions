@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod *R u=rwx,g=rw,o=r
+chmod -R 711
