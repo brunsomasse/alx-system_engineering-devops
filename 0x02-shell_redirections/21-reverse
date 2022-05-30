@@ -1,5 +1,3 @@
 #!/bin/bash
-rev <<EOF
-
-EOF
+echo "reversal" | rev
 
