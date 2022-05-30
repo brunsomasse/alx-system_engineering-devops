@@ -1,0 +1,2 @@
+#!/bin/bash
+homedir=$( getent passwd "$USER" | cut -d: -f6 )
