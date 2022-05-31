@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -t 
+find /-type f | exex ls -lt {} \ 
